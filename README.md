@@ -1,12 +1,4 @@
-# MY VERY FIRST WEBSITE
+# <b style="color: rgb(212, 32, 32);">ROUL</b>ETTE <b style="color: rgb(212, 32, 32);">!</b>
+https://spur-tech.github.io/roulette/
 
-Welcome! [Code Institute](http://codeinstitute.net)
-
-# This is my README section.
-
-## So not much to say just yet.
-
-### Just trying out different font sizes.
-
-#### As i go down the page.
 
